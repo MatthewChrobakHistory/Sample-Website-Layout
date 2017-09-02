@@ -1,0 +1,12 @@
+		body { background-color:rgba(115, 131, 156, 0.75); }
+		#mParagraph { color:white; }
+		#divMain { position:absolute; width:1366px; top:0px; left:0px; color:rgba(0, 0, 0, 0); }
+		#divBanner { position:absolute; width:750px; top:8.5%; left:337.75px; background-color:rgba(0, 0, 0, 0.49); color:rgba(0, 0, 0, 0.49); font-size:50px; text-align:center; }
+		#divTabHome { left:350px; }
+		#divTab2 { left:500px; }
+		#divTab3 { left:650px;  }
+		#divTab4 { left:800px; }
+		#divTab5 { left:950px; }
+		#divBackPage { position:absolute; width:915px; top:30%; left:250px; background-color:rgba(201, 202, 204, 0.75); color:rgba(0, 0, 0, 0.75); font-size:15px; text-align:center; }
+		#pMain { color:rgba(0, 0, 0, 0.75); font-size:20px; text-align:center: font-style:bold; }
+		.tabButton { position:absolute; width:125px; top:22%; background-color:rgba(115, 131, 156, 0.75); color:rgba(0, 0, 0, 0.49); font-size:25px; text-align:center; }
